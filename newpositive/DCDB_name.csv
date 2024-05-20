@@ -1,0 +1,456 @@
+,drug_1,drug_2,Name.x,Name.y
+1,DB00783,DB00007,Estradiol,Leuprolide
+2,DB01128,DB00014,Bicalutamide,Goserelin
+3,DB00675,DB00014,Tamoxifen,Goserelin
+4,DB01217,DB00014,Anastrozole,Goserelin
+5,DB00054,DB00015,Abciximab,Reteplase
+6,DB01234,DB00026,Dexamethasone,Anakinra
+7,DB00030,DB00041,Insulin human,Aldesleukin
+8,DB00169,DB00047,Cholecalciferol,Insulin glargine
+9,DB00331,DB00047,Metformin,Insulin glargine
+10,DB01309,DB00047,Insulin glulisine,Insulin glargine
+11,DB00563,DB00051,Methotrexate,Adalimumab
+12,DB02546,DB00056,Vorinostat,Gemtuzumab ozogamicin
+13,DB00563,DB00065,Methotrexate,Infliximab
+14,DB00993,DB00065,Azathioprine,Infliximab
+15,DB00112,DB00072,Bevacizumab,Trastuzumab
+16,DB00361,DB00072,Vinorelbine,Trastuzumab
+17,DB00515,DB00072,Cisplatin,Trastuzumab
+18,DB00531,DB00072,Cyclophosphamide,Trastuzumab
+19,DB01248,DB00072,Docetaxel,Trastuzumab
+20,DB00675,DB00072,Tamoxifen,Trastuzumab
+21,DB00997,DB00072,Doxorubicin,Trastuzumab
+22,DB00480,DB00073,Lenalidomide,Trastuzumab
+23,DB00078,DB00073,Ibritumomab tiuxetan,Rituximab
+24,DB01234,DB00073,Dexamethasone,Rituximab
+25,DB01073,DB00073,Fludarabine,Rituximab
+26,DB01098,DB00091,Rosuvastatin,Cyclosporine
+27,DB00331,DB00158,Metformin,Folic acid
+28,DB00177,DB00175,Valsartan,Pravastatin
+29,DB00796,DB00178,Candesartan cilexetil,Ramipril
+30,DB00480,DB00188,Lenalidomide,Bortezomib
+31,DB01177,DB00188,Idarubicin,Bortezomib
+32,DB00773,DB00188,Etoposide,Bortezomib
+33,DB00515,DB00188,Cisplatin,Bortezomib
+34,DB00072,DB00188,Trastuzumab,Bortezomib
+35,DB02546,DB00188,Vorinostat,Bortezomib
+36,DB00997,DB00188,Doxorubicin,Bortezomib
+37,DB00273,DB00191,Topiramate,Phentermine
+38,DB00310,DB00195,Chlorthalidone,Betaxolol
+39,DB01085,DB00195,Pilocarpine,Betaxolol
+40,DB01275,DB00206,Hydralazine,Reserpine
+41,DB01325,DB00206,Quinethazone,Reserpine
+42,DB00310,DB00206,Chlorthalidone,Reserpine
+43,DB01021,DB00206,Trichlormethiazide,Reserpine
+44,DB00774,DB00206,Hydroflumethiazide,Reserpine
+45,DB00232,DB00206,Methyclothiazide,Reserpine
+46,DB01324,DB00206,Polythiazide,Reserpine
+47,DB00880,DB00206,Chlorothiazide,Reserpine
+48,DB01045,DB00207,Rifampicin,Azithromycin
+49,DB01033,DB00207,Mercaptopurine,Azithromycin
+50,DB00627,DB00227,Niacin,Lovastatin
+51,DB01626,DB00232,Pargyline,Methyclothiazide
+52,DB00313,DB00252,Valproic acid,Phenytoin
+53,DB00310,DB00264,Chlorthalidone,Metoprolol
+54,DB01075,DB00277,Diphenhydramine,Theophylline
+55,DB00668,DB00281,Epinephrine,Lidocaine
+56,DB00727,DB00281,Nitroglycerin,Lidocaine
+57,DB01212,DB00281,Ceftriaxone,Lidocaine
+58,DB01234,DB00281,Dexamethasone,Lidocaine
+59,DB00297,DB00281,Bupivacaine,Lidocaine
+60,DB00668,DB00297,Epinephrine,Bupivacaine
+61,DB00335,DB00310,Atenolol,Chlorthalidone
+62,DB00273,DB00313,Topiramate,Valproic acid
+63,DB01238,DB00313,Aripiprazole,Valproic acid
+64,DB00996,DB00313,Gabapentin,Valproic acid
+65,DB00734,DB00313,Risperidone,Valproic acid
+66,DB00593,DB00313,Ethosuximide,Valproic acid
+67,DB00997,DB00313,Doxorubicin,Valproic acid
+68,DB00497,DB00316,Oxycodone,Acetaminophen
+69,DB00241,DB00316,Butalbital,Acetaminophen
+70,DB01009,DB00316,Ketoprofen,Acetaminophen
+71,DB00318,DB00316,Codeine,Acetaminophen
+72,DB00193,DB00316,Tramadol,Acetaminophen
+73,DB00295,DB00316,Morphine,Acetaminophen
+74,DB00652,DB00316,Pentazocine,Acetaminophen
+75,DB00647,DB00316,Dextropropoxyphene,Acetaminophen
+76,DB01268,DB00317,Sunitinib,Gefitinib
+77,DB00762,DB00317,Irinotecan,Gefitinib
+78,DB00475,DB00321,Chlordiazepoxide,Amitriptyline
+79,DB01119,DB00325,Diazoxide,Nitroprusside
+80,DB00497,DB00327,Oxycodone,Hydromorphone
+81,DB01067,DB00331,Glipizide,Metformin
+82,DB08907,DB00331,Canagliflozin,Metformin
+83,DB00997,DB00331,Doxorubicin,Metformin
+84,DB00421,DB00331,Spironolactone,Metformin
+85,DB08882,DB00331,Linagliptin,Metformin
+86,DB01104,DB00334,Sertraline,Olanzapine
+87,DB01060,DB00338,Amoxicillin,Omeprazole
+88,DB00852,DB00341,Pseudoephedrine,Cetirizine
+89,DB00584,DB00343,Enalapril,Diltiazem
+90,DB00515,DB00361,Cisplatin,Vinorelbine
+91,DB00165,DB00366,Pyridoxine,Doxylamine
+92,DB00977,DB00367,Ethinylestradiol,Levonorgestrel
+93,DB00783,DB00367,Estradiol,Levonorgestrel
+94,DB02638,DB00368,Terlipressin,Norepinephrine
+95,DB00286,DB00371,Conjugated estrogens,Meprobamate
+96,DB01194,DB00373,Brinzolamide,Timolol
+97,DB00869,DB00373,Dorzolamide,Timolol
+98,DB00275,DB00381,Olmesartan,Amlodipine
+99,DB00177,DB00381,Valsartan,Amlodipine
+100,DB00678,DB00381,Losartan,Amlodipine
+101,DB01076,DB00381,Atorvastatin,Amlodipine
+102,DB01050,DB00388,Ibuprofen,Phenylephrine
+103,DB00945,DB00395,Acetylsalicylic acid,Carisoprodol
+104,DB01114,DB00397,Chlorpheniramine,Phenylpropanolamine
+105,DB00956,DB00397,Hydrocodone,Phenylpropanolamine
+106,DB00997,DB00398,Doxorubicin,Sorafenib
+107,DB01268,DB00398,Sunitinib,Sorafenib
+108,DB00997,DB00399,Doxorubicin,Zoledronic acid
+109,DB00052,DB00412,Somatotropin,Rosiglitazone
+110,DB00903,DB00412,Etacrynic acid,Rosiglitazone
+111,DB06335,DB00412,Saxagliptin,Rosiglitazone
+112,DB00222,DB00412,Glimepiride,Rosiglitazone
+113,DB00199,DB00417,Erythromycin,Phenoxymethylpenicillin
+114,DB00695,DB00421,Furosemide,Spironolactone
+115,DB01248,DB00432,Docetaxel,Trifluridine
+116,DB00537,DB00440,Ciprofloxacin,Trimethoprim
+117,DB00515,DB00441,Cisplatin,Gemcitabine
+118,DB00072,DB00441,Trastuzumab,Gemcitabine
+119,DB01229,DB00441,Paclitaxel,Gemcitabine
+120,DB00072,DB00445,Trastuzumab,Epirubicin
+121,DB00860,DB00446,Prednisolone,Chloramphenicol
+122,DB00788,DB00448,Naproxen,Lansoprazole
+123,DB01222,DB00448,Budesonide,Lansoprazole
+124,DB00813,DB00450,Fentanyl,Droperidol
+125,DB01069,DB00454,Promethazine,Meperidine
+126,DB00471,DB00455,Montelukast,Loratadine
+127,DB00852,DB00455,Pseudoephedrine,Loratadine
+128,DB01324,DB00457,Polythiazide,Prazosin
+129,DB00860,DB00471,Prednisolone,Montelukast
+130,DB01224,DB00472,Quetiapine,Fluoxetine
+131,DB01242,DB00472,Clomipramine,Fluoxetine
+132,DB00334,DB00472,Olanzapine,Fluoxetine
+133,DB00996,DB00476,Gabapentin,Duloxetine
+134,DB01194,DB00484,Brinzolamide,Brimonidine
+135,DB00373,DB00484,Timolol,Brimonidine
+136,DB01050,DB00497,Ibuprofen,Oxycodone
+137,DB01183,DB00497,Naloxone,Oxycodone
+138,DB00230,DB00497,Pregabalin,Oxycodone
+139,DB01069,DB00514,Promethazine,Dextromethorphan
+140,DB00809,DB00514,Tropicamide,Dextromethorphan
+141,DB00584,DB00528,Enalapril,Lercanidipine
+142,DB01234,DB00537,Dexamethasone,Ciprofloxacin
+143,DB00381,DB00542,Amlodipine,Benazepril
+144,DB00398,DB00544,Sorafenib,Fluorouracil
+145,DB00104,DB00544,Octreotide,Fluorouracil
+146,DB00650,DB00544,Leucovorin,Fluorouracil
+147,DB00273,DB00555,Topiramate,Lamotrigine
+148,DB00313,DB00555,Valproic acid,Lamotrigine
+149,DB00005,DB00563,Etanercept,Methotrexate
+150,DB00864,DB00563,Tacrolimus,Methotrexate
+151,DB00996,DB00564,Gabapentin,Carbamazepine
+152,DB00273,DB00564,Topiramate,Carbamazepine
+153,DB00454,DB00572,Meperidine,Atropine
+154,DB01010,DB00572,Edrophonium,Atropine
+155,DB01081,DB00572,Diphenoxylate,Atropine
+156,DB00733,DB00572,Pralidoxime,Atropine
+157,DB00310,DB00575,Chlorthalidone,Clonidine
+158,DB00929,DB00586,Misoprostol,Diclofenac
+159,DB00338,DB00586,Omeprazole,Diclofenac
+160,DB00860,DB00588,Prednisolone,Fluticasone propionate
+161,DB00983,DB00588,Formoterol,Fluticasone propionate
+162,DB00972,DB00588,Azelastine,Fluticasone propionate
+163,DB01211,DB00588,Clarithromycin,Fluticasone propionate
+164,DB00043,DB00588,Omalizumab,Fluticasone propionate
+165,DB00994,DB00591,Neomycin,Fluocinolone acetonide
+166,DB00310,DB00594,Chlorthalidone,Amiloride
+167,DB01212,DB00601,Ceftriaxone,Linezolid
+168,DB00286,DB00603,Conjugated estrogens,Medroxyprogesterone acetate
+169,DB02546,DB00619,Vorinostat,Imatinib
+170,DB00877,DB00619,Sirolimus,Imatinib
+171,DB00853,DB00619,Temozolomide,Imatinib
+172,DB00994,DB00620,Neomycin,Triamcinolone
+173,DB00169,DB00630,Cholecalciferol,Alendronic acid
+174,DB00317,DB00641,Gefitinib,Simvastatin
+175,DB00175,DB00641,Pravastatin,Simvastatin
+176,DB00627,DB00641,Niacin,Simvastatin
+177,DB01076,DB00641,Atorvastatin,Simvastatin
+178,DB01039,DB00641,Fenofibrate,Simvastatin
+179,DB01261,DB00641,Sitagliptin,Simvastatin
+180,DB00515,DB00642,Cisplatin,Pemetrexed
+181,DB00531,DB00642,Cyclophosphamide,Pemetrexed
+182,DB00530,DB00642,Erlotinib,Pemetrexed
+183,DB01183,DB00652,Naloxone,Pentazocine
+184,DB00519,DB00661,Trandolapril,Verapamil
+185,DB00788,DB00669,Naproxen,Sumatriptan
+186,DB00990,DB00675,Exemestane,Tamoxifen
+187,DB00571,DB00678,Propranolol,Losartan
+188,DB00335,DB00678,Atenolol,Losartan
+189,DB00813,DB00683,Fentanyl,Midazolam
+190,DB00818,DB00683,Propofol,Midazolam
+191,DB00207,DB00685,Azithromycin,Trovafloxacin
+192,DB00864,DB00688,Tacrolimus,Mycophenolate mofetil
+193,DB00877,DB00688,Sirolimus,Mycophenolate mofetil
+194,DB00201,DB00696,Caffeine,Ergotamine
+195,DB01156,DB00704,Bupropion,Naltrexone
+196,DB01104,DB00704,Sertraline,Naltrexone
+197,DB00295,DB00704,Morphine,Naltrexone
+198,DB00921,DB00704,Buprenorphine,Naltrexone
+199,DB01591,DB00706,Solifenacin,Tamsulosin
+200,DB01126,DB00706,Dutasteride,Tamsulosin
+201,DB01212,DB00713,Ceftriaxone,Oxacillin
+202,DB00977,DB00717,Ethinylestradiol,Norethisterone
+203,DB00783,DB00717,Estradiol,Norethisterone
+204,DB01357,DB00717,Mestranol,Norethisterone
+205,DB00007,DB00717,Leuprolide,Norethisterone
+206,DB01006,DB00717,Letrozole,Norethisterone
+207,DB00956,DB00725,Hydrocodone,Homatropine methylbromide
+208,DB00788,DB00736,Naproxen,Esomeprazole
+209,DB00759,DB00741,Tetracycline,Hydrocortisone
+210,DB00787,DB00741,Acyclovir,Hydrocortisone
+211,DB00537,DB00741,Ciprofloxacin,Hydrocortisone
+212,DB00994,DB00741,Neomycin,Hydrocortisone
+213,DB00446,DB00741,Chloramphenicol,Hydrocortisone
+214,DB03904,DB00741,Urea,Hydrocortisone
+215,DB01609,DB00746,Deferasirox,Deferoxamine
+216,DB06151,DB00746,Acetylcysteine,Deferoxamine
+217,DB00571,DB00749,Propranolol,Etodolac
+218,DB01169,DB00755,Arsenic trioxide,Tretinoin
+219,DB01590,DB00758,Everolimus,Clopidogrel
+220,DB00515,DB00762,Cisplatin,Irinotecan
+221,DB00983,DB00764,Formoterol,Mometasone
+222,DB00877,DB00775,Sirolimus,Tirofiban
+223,DB01202,DB00776,Levetiracetam,Oxcarbazepine
+224,DB00273,DB00776,Topiramate,Oxcarbazepine
+225,DB00996,DB00776,Gabapentin,Oxcarbazepine
+226,DB01395,DB00783,Drospirenone,Estradiol
+227,DB00957,DB00783,Norgestimate,Estradiol
+228,DB00894,DB00783,Testolactone,Estradiol
+229,DB00381,DB00790,Amlodipine,Perindopril
+230,DB00584,DB00796,Enalapril,Candesartan cilexetil
+231,DB01137,DB00798,Levofloxacin,Gentamicin
+232,DB00860,DB00798,Prednisolone,Gentamicin
+233,DB00415,DB00798,Ampicillin,Gentamicin
+234,DB00203,DB00820,Sildenafil,Tadalafil
+235,DB00977,DB00823,Ethinylestradiol,Ethynodiol diacetate
+236,DB01357,DB00823,Mestranol,Ethynodiol diacetate
+237,DB00813,DB00829,Fentanyl,Diazepam
+238,DB00929,DB00834,Misoprostol,Mifepristone
+239,DB00321,DB00850,Amitriptyline,Perphenazine
+240,DB00967,DB00852,Desloratadine,Pseudoephedrine
+241,DB00719,DB00852,Azatadine,Pseudoephedrine
+242,DB00405,DB00852,Dexbrompheniramine,Pseudoephedrine
+243,DB01050,DB00852,Ibuprofen,Pseudoephedrine
+244,DB01075,DB00852,Diphenhydramine,Pseudoephedrine
+245,DB00788,DB00852,Naproxen,Pseudoephedrine
+246,DB00427,DB00852,Triprolidine,Pseudoephedrine
+247,DB00515,DB00853,Cisplatin,Temozolomide
+248,DB00531,DB00860,Cyclophosphamide,Prednisolone
+249,DB00994,DB00860,Neomycin,Prednisolone
+250,DB06151,DB00860,Acetylcysteine,Prednisolone
+251,DB01222,DB00871,Budesonide,Terbutaline
+252,DB00864,DB00877,Tacrolimus,Sirolimus
+253,DB01275,DB00883,Hydralazine,Isosorbide dinitrate
+254,DB00433,DB00902,Prochlorperazine,Methdilazine
+255,DB00373,DB00905,Timolol,Bimatoprost
+256,DB00514,DB00908,Dextromethorphan,Quinidine
+257,DB00331,DB00912,Metformin,Repaglinide
+258,DB01306,DB00912,Insulin aspart,Repaglinide
+259,DB00030,DB00912,Insulin human,Repaglinide
+260,DB01212,DB00916,Ceftriaxone,Metronidazole
+261,DB01183,DB00921,Naloxone,Buprenorphine
+262,DB01050,DB00927,Ibuprofen,Famotidine
+263,DB00398,DB00928,Sorafenib,Azacitidine
+264,DB00480,DB00928,Lenalidomide,Azacitidine
+265,DB00394,DB00938,Beclomethasone dipropionate,Salmeterol
+266,DB05039,DB00938,Indacaterol,Salmeterol
+267,DB00983,DB00938,Formoterol,Salmeterol
+268,DB08908,DB00945,Dimethyl fumarate,Acetylsalicylic acid
+269,DB00956,DB00945,Hydrocodone,Acetylsalicylic acid
+270,DB00241,DB00945,Butalbital,Acetylsalicylic acid
+271,DB00497,DB00945,Oxycodone,Acetylsalicylic acid
+272,DB00423,DB00945,Methocarbamol,Acetylsalicylic acid
+273,DB00627,DB00945,Niacin,Acetylsalicylic acid
+274,DB00175,DB00945,Pravastatin,Acetylsalicylic acid
+275,DB00652,DB00945,Pentazocine,Acetylsalicylic acid
+276,DB01132,DB00945,Pioglitazone,Acetylsalicylic acid
+277,DB00647,DB00945,Dextropropoxyphene,Acetylsalicylic acid
+278,DB01109,DB00945,Heparin,Acetylsalicylic acid
+279,DB01076,DB00945,Atorvastatin,Acetylsalicylic acid
+280,DB00371,DB00945,Meprobamate,Acetylsalicylic acid
+281,DB01032,DB00950,Probenecid,Fexofenadine
+282,DB00852,DB00950,Pseudoephedrine,Fexofenadine
+283,DB01201,DB00951,Rifapentine,Isoniazid
+284,DB01050,DB00956,Ibuprofen,Hydrocodone
+285,DB00852,DB00956,Pseudoephedrine,Hydrocodone
+286,DB00994,DB00959,Neomycin,Methylprednisolone
+287,DB00381,DB00966,Amlodipine,Telmisartan
+288,DB00612,DB00966,Bisoprolol,Telmisartan
+289,DB01076,DB00973,Atorvastatin,Ezetimibe
+290,DB00627,DB00973,Niacin,Ezetimibe
+291,DB01095,DB00973,Fluvastatin,Ezetimibe
+292,DB00945,DB00975,Acetylsalicylic acid,Dipyridamole
+293,DB00860,DB00975,Prednisolone,Dipyridamole
+294,DB06713,DB00977,Norelgestromin,Ethinylestradiol
+295,DB01395,DB00977,Drospirenone,Ethinylestradiol
+296,DB00304,DB00977,Desogestrel,Ethinylestradiol
+297,DB00957,DB00977,Norgestimate,Ethinylestradiol
+298,DB00388,DB00979,Phenylephrine,Cyclopentolate
+299,DB01222,DB00983,Budesonide,Formoterol
+300,DB01409,DB00983,Tiotropium,Formoterol
+301,DB00515,DB00987,Cisplatin,Cytarabine
+302,DB01590,DB00990,Everolimus,Exemestane
+303,DB00860,DB00993,Prednisolone,Azathioprine
+304,DB01234,DB00994,Dexamethasone,Neomycin
+305,DB00846,DB00994,Flurandrenolide,Neomycin
+306,DB00295,DB00996,Morphine,Gabapentin
+307,DB00906,DB00996,Tiagabine,Gabapentin
+308,DB00515,DB00997,Cisplatin,Doxorubicin
+309,DB00678,DB00999,Losartan,Hydrochlorothiazide
+310,DB00612,DB00999,Bisoprolol,Hydrochlorothiazide
+311,DB00571,DB00999,Propranolol,Hydrochlorothiazide
+312,DB00264,DB00999,Metoprolol,Hydrochlorothiazide
+313,DB00966,DB00999,Telmisartan,Hydrochlorothiazide
+314,DB00384,DB00999,Triamterene,Hydrochlorothiazide
+315,DB01089,DB00999,Deserpidine,Hydrochlorothiazide
+316,DB00584,DB00999,Enalapril,Hydrochlorothiazide
+317,DB00421,DB00999,Spironolactone,Hydrochlorothiazide
+318,DB00960,DB00999,Pindolol,Hydrochlorothiazide
+319,DB00876,DB00999,Eprosartan,Hydrochlorothiazide
+320,DB00275,DB00999,Olmesartan,Hydrochlorothiazide
+321,DB00691,DB00999,Moexipril,Hydrochlorothiazide
+322,DB00381,DB00999,Amlodipine,Hydrochlorothiazide
+323,DB00796,DB00999,Candesartan cilexetil,Hydrochlorothiazide
+324,DB01029,DB00999,Irbesartan,Hydrochlorothiazide
+325,DB01197,DB00999,Captopril,Hydrochlorothiazide
+326,DB00594,DB00999,Amiloride,Hydrochlorothiazide
+327,DB00373,DB00999,Timolol,Hydrochlorothiazide
+328,DB00177,DB00999,Valsartan,Hydrochlorothiazide
+329,DB00968,DB00999,Methyldopa,Hydrochlorothiazide
+330,DB00722,DB00999,Lisinopril,Hydrochlorothiazide
+331,DB00206,DB00999,Reserpine,Hydrochlorothiazide
+332,DB00598,DB00999,Labetalol,Hydrochlorothiazide
+333,DB00492,DB00999,Fosinopril,Hydrochlorothiazide
+334,DB01170,DB00999,Guanethidine,Hydrochlorothiazide
+335,DB00542,DB00999,Benazepril,Hydrochlorothiazide
+336,DB01275,DB00999,Hydralazine,Hydrochlorothiazide
+337,DB00881,DB00999,Quinapril,Hydrochlorothiazide
+338,DB00332,DB01001,Ipratropium,Salbutamol
+339,DB00394,DB01001,Beclomethasone dipropionate,Salbutamol
+340,DB01590,DB01006,Everolimus,Letrozole
+341,DB00910,DB01012,Paricalcitol,Cinacalcet
+342,DB00331,DB01016,Metformin,Glyburide
+343,DB00584,DB01023,Enalapril,Felodipine
+344,DB00264,DB01023,Metoprolol,Felodipine
+345,DB01013,DB01026,Clobetasol propionate,Ketoconazole
+346,DB01023,DB01029,Felodipine,Irbesartan
+347,DB01197,DB01029,Captopril,Irbesartan
+348,DB00381,DB01029,Amlodipine,Irbesartan
+349,DB00515,DB01030,Cisplatin,Topotecan
+350,DB00415,DB01032,Ampicillin,Probenecid
+351,DB00615,DB01033,Rifabutin,Mercaptopurine
+352,DB01235,DB01034,Levodopa,Cerulenin
+353,DB01263,DB01036,Posaconazole,Tolterodine
+354,DB00153,DB01043,Ergocalciferol,Memantine
+355,DB01033,DB01045,Mercaptopurine,Rifampicin
+356,DB00254,DB01045,Doxycycline,Rifampicin
+357,DB00951,DB01045,Isoniazid,Rifampicin
+358,DB00388,DB01064,Phenylephrine,Isoprenaline
+359,DB00318,DB01069,Codeine,Promethazine
+360,DB00388,DB01069,Phenylephrine,Promethazine
+361,DB00788,DB01075,Naproxen,Diphenhydramine
+362,DB01050,DB01075,Ibuprofen,Diphenhydramine
+363,DB00758,DB01076,Clopidogrel,Atorvastatin
+364,DB01098,DB01076,Rosuvastatin,Atorvastatin
+365,DB00381,DB01082,Amlodipine,Streptomycin
+366,DB00203,DB01088,Sildenafil,Iloprost
+367,DB00232,DB01089,Methyclothiazide,Deserpidine
+368,DB00531,DB01101,Cyclophosphamide,Capecitabine
+369,DB01229,DB01101,Paclitaxel,Capecitabine
+370,DB00112,DB01101,Bevacizumab,Capecitabine
+371,DB00398,DB01101,Sorafenib,Capecitabine
+372,DB00682,DB01109,Warfarin,Heparin
+373,DB00054,DB01109,Abciximab,Heparin
+374,DB01577,DB01114,Metamfetamine,Chlorpheniramine
+375,DB00852,DB01114,Pseudoephedrine,Chlorpheniramine
+376,DB00318,DB01114,Codeine,Chlorpheniramine
+377,DB00956,DB01114,Hydrocodone,Chlorpheniramine
+378,DB00796,DB01115,Candesartan cilexetil,Nifedipine
+379,DB00331,DB01120,Metformin,Gliclazide
+380,DB04876,DB01132,Vildagliptin,Pioglitazone
+381,DB01276,DB01132,Exenatide,Pioglitazone
+382,DB06335,DB01132,Saxagliptin,Pioglitazone
+383,DB00222,DB01132,Glimepiride,Pioglitazone
+384,DB00331,DB01132,Metformin,Pioglitazone
+385,DB00584,DB01136,Enalapril,Carvedilol
+386,DB01255,DB01175,Lisdexamfetamine,Escitalopram
+387,DB00654,DB01194,Latanoprost,Brinzolamide
+388,DB00273,DB01202,Topiramate,Levetiracetam
+389,DB00436,DB01203,Bendroflumethiazide,Nadolol
+390,DB00635,DB01204,Prednisone,Mitoxantrone
+391,DB01033,DB01211,Mercaptopurine,Clarithromycin
+392,DB01212,DB01211,Ceftriaxone,Clarithromycin
+393,DB01045,DB01211,Rifampicin,Clarithromycin
+394,DB01137,DB01212,Levofloxacin,Ceftriaxone
+395,DB00055,DB01225,Drotrecogin alfa,Enoxaparin
+396,DB01098,DB01225,Rosuvastatin,Enoxaparin
+397,DB00682,DB01225,Warfarin,Enoxaparin
+398,DB00112,DB01229,Bevacizumab,Paclitaxel
+399,DB00758,DB01229,Clopidogrel,Paclitaxel
+400,DB00531,DB01229,Cyclophosphamide,Paclitaxel
+401,DB00115,DB01229,Cyanocobalamin,Paclitaxel
+402,DB00997,DB01229,Doxorubicin,Paclitaxel
+403,DB00072,DB01229,Trastuzumab,Paclitaxel
+404,DB00539,DB01229,Toremifene,Paclitaxel
+405,DB00388,DB01233,Phenylephrine,Metoclopramide
+406,DB00190,DB01235,Carbidopa,Levodopa
+407,DB00318,DB01237,Codeine,Bromodiphenhydramine
+408,DB01098,DB01241,Rosuvastatin,Gemfibrozil
+409,DB00439,DB01241,Cerivastatin,Gemfibrozil
+410,DB08885,DB01248,Aflibercept,Docetaxel
+411,DB00762,DB01248,Irinotecan,Docetaxel
+412,DB00635,DB01248,Prednisone,Docetaxel
+413,DB00997,DB01248,Doxorubicin,Docetaxel
+414,DB00331,DB01261,Metformin,Sitagliptin
+415,DB00313,DB01262,Valproic acid,Decitabine
+416,DB01229,DB01262,Paclitaxel,Decitabine
+417,DB00188,DB01262,Bortezomib,Decitabine
+418,DB00030,DB01276,Insulin human,Exenatide
+419,DB00331,DB01276,Metformin,Exenatide
+420,DB00563,DB01281,Methotrexate,Abatacept
+421,DB00331,DB01306,Metformin,Insulin aspart
+422,DB00661,DB01356,Verapamil,Lithium cation
+423,DB01238,DB01356,Aripiprazole,Lithium cation
+424,DB01032,DB01394,Probenecid,Colchicine
+425,DB00503,DB01394,Ritonavir,Colchicine
+426,DB01274,DB01409,Arformoterol,Tiotropium
+427,DB01015,DB01438,Sulfamethoxazole,Phenazopyridine
+428,DB00182,DB01576,Amphetamine,Dextroamphetamine
+429,DB00422,DB01576,Methylphenidate,Dextroamphetamine
+430,DB00209,DB01591,Trospium,Solifenacin
+431,DB00443,DB02300,Betamethasone,Calcipotriol
+432,DB00112,DB04106,Bevacizumab,Fotemustine
+433,DB01101,DB04845,Capecitabine,Ixabepilone
+434,DB01248,DB05294,Docetaxel,Vandetanib
+435,DB00928,DB05332,Azacitidine,Romiplostim
+436,DB01064,DB06151,Isoprenaline,Acetylcysteine
+437,DB00331,DB06168,Metformin,Canakinumab
+438,DB00331,DB06203,Metformin,Alogliptin
+439,DB01016,DB06203,Glyburide,Alogliptin
+440,DB04878,DB06203,Voglibose,Alogliptin
+441,DB00030,DB06203,Insulin human,Alogliptin
+442,DB01132,DB06203,Pioglitazone,Alogliptin
+443,DB00563,DB06273,Methotrexate,Tocilizumab
+444,DB00034,DB06287,Interferon alfa-2a,Temsirolimus
+445,DB01171,DB06288,Moclobemide,Amisulpride
+446,DB00030,DB06335,Insulin human,Saxagliptin
+447,DB00331,DB06335,Metformin,Saxagliptin
+448,DB06285,DB06643,Teriparatide,Denosumab
+449,DB00563,DB06674,Methotrexate,Golimumab
+450,DB00388,DB06691,Phenylephrine,Mepyramine
+451,DB01620,DB06711,Pheniramine,Naphazoline
+452,DB01620,DB08799,Pheniramine,Antazoline
+453,DB00310,DB08822,Chlorthalidone,Azilsartan medoxomil
+454,DB00335,DB08868,Atenolol,Fingolimod
+455,DB01234,DB08910,Dexamethasone,Pomalidomide
